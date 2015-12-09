@@ -25,4 +25,5 @@ step2. Extend AbsGroupAdapter and init it <br>
 ```
 ##Demo
 Demo is MainActivity.java<br>
+![](https://github.com/JJengine/AndroidGroupList/blob/master/app/src/main/res/drawable/demo.png) 
 
