@@ -20,6 +20,7 @@ public class MainActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+
         ListView listView = (ListView) findViewById(R.id.listview);
         final GroupAdapter adapter = new GroupAdapter(getApplicationContext());
         adapter.bindListView(listView);
